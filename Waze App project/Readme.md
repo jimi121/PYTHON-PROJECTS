@@ -1,5 +1,5 @@
 # Unraveling Waze: Data-Driven Insights to Propel Growth
-
+![image](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Waze%20App%20project/image.jpeg)
 ## Introduction
 
 I explore the complexities of the Waze dataset in this dynamic data analytics research, using strong approaches to obtain insightful knowledge. The main goal is to comprehend and reduce monthly user churn on the Waze app, which is a vital task to support overall growth. Churn, which is determined by users deleting or stopping to use an app, is a crucial indicator that shapes the app's user base and level of happiness.
