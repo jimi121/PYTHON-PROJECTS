@@ -25,6 +25,8 @@ The primary goals are as follows: first, thoroughly explore the dataset using in
 |activity_days |Number of days the user opens the app during the month	|
 |driving_days |Number of days the user drives (at least 1 km) during the month	|
 
+* [Click here to see the notebook for the data analysis](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Waze%20App%20project/Waze%20App%20analysis.ipynb)
+
 # Insight from the Dataset
 
 ## Datset overview
