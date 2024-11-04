@@ -1,7 +1,5 @@
 # Employee Retention Analysis Project
-
-
-
+![](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Employee%20retention%20prediction%20project/Employee%20retention%20image.jpg)
 ## 📊 Project Overview
 
 In today’s competitive business landscape, retaining skilled employees is essential for organizational success. High employee turnover can incur substantial costs and negatively impact productivity and morale. Recognizing the critical nature of this issue, this project dives into a comprehensive HR dataset to uncover patterns and trends driving employee turnover. By leveraging data analytics and predictive modeling, this project aims to deliver actionable insights, enabling organizations to proactively address the root causes of employee attrition.
