@@ -98,4 +98,4 @@ To build on this analysis, future work could include:
 
 This project provides a thorough analysis of user retention factors within Waze, along with actionable recommendations for improving user satisfaction and reducing churn. The insights presented here serve as a data-driven framework for Waze to strengthen its user base and foster long-term growth.
 
-[**👉 Click Here to View the Full Jupyter Notebook Analysis**]() <!-- Replace with actual URL -->
+[**👉 Click Here to View the Full Jupyter Notebook Analysis**](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Waze%20App%20Users%20Churn%20Analysis/Waze%20App%20analysis.ipynb) <!-- Replace with actual URL -->
