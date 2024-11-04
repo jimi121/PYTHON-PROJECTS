@@ -92,5 +92,5 @@ Future work could involve:
 
 ---
 
-[**👉 Click Here to View the Full Jupyter Notebook Analysis**](https://github.com/yourusername/waze-churn-analysis) <!-- Replace with actual URL -->
+[**👉 Click Here to View the Full Jupyter Notebook Analysis**](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Employee%20retention%20prediction%20project/Employee%20retention%20prediction.ipynb) <!-- Replace with actual URL -->
 
