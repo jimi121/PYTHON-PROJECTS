@@ -45,7 +45,7 @@ The dataset contains 14,999 records and 10 variables:
 | `Department`             | The employee's department                                                                  |
 | `salary`                 | Employee's salary level (categorized)                                                      |
 
-**Dataset link** [**here**]()
+**Dataset link** [**here**](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Employee%20retention%20prediction%20project/HR_dataset.csv)
 
 ---
 
