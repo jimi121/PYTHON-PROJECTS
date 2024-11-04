@@ -1,6 +1,5 @@
 # 🚗 Waze User Churn Analysis: Insights for Growth and Retention
-
-
+![](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Waze%20App%20Users%20Churn%20Analysis/waze.jpg)
 ## 📄 Project Overview
 
 This project is an in-depth analysis of Waze’s user behavior data, with the goal of identifying key drivers of user churn. By understanding what influences users to stop using the app, I developed actionable strategies to reduce churn and improve user retention. This project demonstrates my expertise in data cleaning, exploratory data analysis (EDA), A/B testing, and generating strategic recommendations based on data-driven insights.
