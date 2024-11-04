@@ -40,7 +40,7 @@ The dataset provides various metrics related to Waze user activity, device types
 | **activity_days**        | Days the app was opened in the month                                        |
 | **driving_days**         | Days with ≥1 km driven during the month                                     |
 
-**Dataset link** [**here**]()
+**Dataset link** [**here**](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Waze%20App%20Users%20Churn%20Analysis/waze_dataset.csv)
 
 ## 🔍 Key Insights
 
