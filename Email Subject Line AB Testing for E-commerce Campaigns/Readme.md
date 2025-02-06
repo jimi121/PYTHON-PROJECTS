@@ -88,7 +88,7 @@ I conducted an A/B test using real email campaign data from an e-commerce busine
 
 ### Sample Sizes:
 - Total emails sent: $N = 500,000$
-- Split evenly between groups: $N_{\text{Personalized}} = 250,000 $, $ N_{\text{Urgency}} = 250,000$
+- Split evenly between groups: $N_{\text{Personalized}} = 250,000 $, $N_{\text{Urgency}} = 250,000$
 
 ---
 ## 📈 Results and Visualization
