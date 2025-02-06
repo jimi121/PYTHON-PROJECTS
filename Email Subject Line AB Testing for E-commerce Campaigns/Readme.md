@@ -87,8 +87,8 @@ I conducted an A/B test using real email campaign data from an e-commerce busine
 - **Conversion Rate**: $(\text{Purchases} / \text{Clicks}) \times 100\%$
 
 ### Sample Sizes:
-- Total emails sent: $ N = 100,000 $
-- Split evenly between groups: $ N_{\text{Personalized}} = 50,000 $, $ N_{\text{Urgency}} = 50,000 $
+- Total emails sent: $N = 500,000$
+- Split evenly between groups: $N_{\text{Personalized}} = 250,000 $, $ N_{\text{Urgency}} = 250,000$
 
 ---
 ## 📈 Results and Visualization
