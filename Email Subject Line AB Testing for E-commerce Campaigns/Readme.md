@@ -98,7 +98,7 @@ I conducted an A/B test using real email campaign data from an e-commerce busine
 #### Bar Chart Comparison:
 Below is a bar chart comparing the performance of the two subject line strategies across the three key metrics:
 
-![Bar Chart Comparison](https://via.placeholder.com/600x400?text=Bar+Chart+Comparison)
+![Bar Chart Comparison](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Email%20Subject%20Line%20AB%20Testing%20for%20E-commerce%20Campaigns/Image/Email%20Campaign%20Performance%20Comparison.png)
 
 | Metric               | Personalized (%) | Urgency (%) | Winner          |
 |----------------------|------------------|-------------|-----------------|
@@ -131,7 +131,7 @@ Where:
 The Z-score is far beyond the critical threshold ($±1.96$). The difference in open rates is statistically significant. Personalized subject lines are significantly better for driving email opens.
 
 #### Normal Distribution Visualization:
-![Open Rate Normal Distribution](https://via.placeholder.com/600x300?text=Open+Rate+Normal+Distribution)
+![Open Rate Normal Distribution](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Email%20Subject%20Line%20AB%20Testing%20for%20E-commerce%20Campaigns/Image/Open%20Rate%20Normal%20Distribution%20Chart.png)
 
 ---
 
@@ -146,7 +146,7 @@ We ran another hypothesis test for CTR using the same Z-test formula.
 The Z-score is far beyond the rejection region. Urgency-based subject lines drive significantly higher CTR.
 
 #### Normal Distribution Visualization:
-![CTR Normal Distribution](https://via.placeholder.com/600x300?text=CTR+Normal+Distribution)
+![CTR Normal Distribution](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Email%20Subject%20Line%20AB%20Testing%20for%20E-commerce%20Campaigns/Image/CTR%20Normal%20Distribution%20Chart.png)
 
 ---
 
@@ -161,7 +161,7 @@ Finally, we tested for Conversion Rate.
 The Z-score falls within the rejection region. Urgency-based subject lines lead to more conversions.
 
 #### Normal Distribution Visualization:
-![Conversion Rate Normal Distribution](https://via.placeholder.com/600x300?text=Conversion+Rate+Normal+Distribution)
+![Conversion Rate Normal Distribution](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Email%20Subject%20Line%20AB%20Testing%20for%20E-commerce%20Campaigns/Image/Conversion%20Rate%20Normal%20Distribution%20Chart.png)
 
 ---
 
