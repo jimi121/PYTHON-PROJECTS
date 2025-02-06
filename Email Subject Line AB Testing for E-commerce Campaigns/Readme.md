@@ -78,7 +78,7 @@ I conducted an A/B test using real email campaign data from an e-commerce busine
 | `link_clicked`        | 1 if a link was clicked, 0 if not |
 | `purchased_made`      | 1 if a purchase was made, 0 if not |
 
-🔗 **Check the Dataset:** [email_campaign_data.csv](#)   
+🔗 **Check the Dataset:** [email_campaign_data.csv](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Email%20Subject%20Line%20AB%20Testing%20for%20E-commerce%20Campaigns/email_marketing.csv)   
 
 
 ### Key Metrics:
