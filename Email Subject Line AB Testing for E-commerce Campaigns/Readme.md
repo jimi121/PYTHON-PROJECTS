@@ -1,6 +1,6 @@
 # 📧 Email Subject Line A/B Testing for E-commerce Campaigns
 
-![Email Marketing](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Email%20Subject%20Line%20AB%20Testing%20for%20E-commerce%20Campaigns/Image/email-marketing-featured.jpg)
+![Email Marketing](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Email%20Subject%20Line%20AB%20Testing%20for%20E-commerce%20Campaigns/Image/email-marketing.jpg)
 
 📂 **Full Analysis Available in Jupyter Notebook:** [here📒](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Email%20Subject%20Line%20AB%20Testing%20for%20E-commerce%20Campaigns/Email%20Subject%20Line%20AB%20Testing%20for%20E-commerce%20Campaigns.ipynb)
 
