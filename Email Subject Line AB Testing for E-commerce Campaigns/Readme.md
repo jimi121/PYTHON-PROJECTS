@@ -6,7 +6,7 @@
 
 📂 **Check Presentation in PDF:** [here📒](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Email%20Subject%20Line%20AB%20Testing%20for%20E-commerce%20Campaigns/Email%20Subject%20Line%20AB%20Testing%20for%20E-commerce%20Campaigns.pdf)
 
-📂 **Check Presentation in PowerPoint:** [here📒](#)
+📂 **Check Presentation in PowerPoint:** [here📒](https://github.com/jimi121/PYTHON-PROJECTS/blob/main/Email%20Subject%20Line%20AB%20Testing%20for%20E-commerce%20Campaigns/Email%20Subject%20Line%20AB%20Testing%20for%20E-commerce%20Campaigns.pptx)
 
 This project analyzes the impact of different email subject line strategies—**Personalized** and **Urgency-based**—on key email marketing metrics: **Open Rate**, **Click-Through Rate (CTR)**, and **Conversion Rate**. The goal is to determine which subject line strategy performs best in engaging users and driving conversions.
 
